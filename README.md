@@ -1,2 +1,11 @@
-# SQL-Analytics-Portfolio
-Collection of SQL Reporting as a professional Operations Analyst
+**SQL Analytics Portfolio**
+
+**Projects:**
+
+Complaint Resolution Analytics
+Customer Financial Hardship Analysis
+SMS Performance Analytics
+Collections Portfolio Monitoring
+Call Center KPI Reporting
+Vendor Performance Analysis
+DNC Trend Analysis
