@@ -1,5 +1,18 @@
 **Collections Portfolio Monitoring**
 
+## Objective
+Analyze percentages of deliquent account in each deliquent bucket for daily and monthly reporting.
+
+## Analysis Performed
+- Total deliquencies in each deliquency bucket
+- Trend analysis
+- MTD changes
+
+## Key Insights
+- Identified top deliquency buckets with the highest percentage
+- Track deliquency bucket percentages daily and MTD
+- Provided actionable recommendations
+
 ## Sample SQL Logic
 
 ```sql
@@ -34,30 +47,4 @@ GROUP BY date
 
 
 ```
-
-## Objective
-Analyze percentages of deliquent account in each deliquent bucket for daily and monthly reporting.
-
-## Tools Used
-- Excel
-- Pivot Tables
-- VLOOKUP
-- Conditional Formatting
-- Charts
-
-## Analysis Performed
-- Total deliquencies in each deliquency bucket
-- Trend analysis
-- MTD changes
-
-## Key Insights
-- Identified top deliquency buckets with the highest percentage
-- Track deliquency bucket percentages daily and MTD
-- Provided actionable recommendations
-
-## Skills Demonstrated
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Business Reporting
 
