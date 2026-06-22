@@ -3,7 +3,7 @@
 ## Objective
 Analyze percentages of charge off accounts that are associated with customers losing their jobs during covid.
 
-**Business Problem**
+## Business Problem
 
 American First Finance wanted to understand the impact of customer financial hardship on portfolio losses. Leadership specifically wanted visibility into how often unemployment was associated with charged-off accounts.
 
