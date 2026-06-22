@@ -1,8 +1,5 @@
 **Call Center KPI Reporting**
 
-
-This query was used to analyze call center performance by hour, calculating offered calls, handled calls, abandonment rates, and average speed of answer (ASA).
-
 ## Sample SQL Logic
 
 ```sql
@@ -20,3 +17,15 @@ WHERE operator_transfer = 1
 GROUP BY call_date, HOUR
 ORDER BY call_date, HOUR;
 ```
+## Objective
+This query was used to analyze call center performance by hour, calculating offered calls, handled calls, abandonment rates, and average speed of answer (ASA).
+
+## Analysis Performed
+- Analyze call center performance for 3 call centers 
+- Trend analysis of call center KPIs
+- Agent statistics
+
+## Key Insights
+- Identified call volume trends
+- Track agent KPIs & metrics
+- Provided actionable recommendations
