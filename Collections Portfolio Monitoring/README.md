@@ -4,7 +4,7 @@
 ## Objective
 Analyze percentages of charge off accounts that are associated with customers losing their jobs during covid.
 
-**Business Problem**
+## Business Problem
 
 American First Finance wanted to understand the percentages of deliquent account in each deliquent bucket for daily and monthly reporting. Leadership specifically wanted visibility into what percentage of customers fell into each deliquency bucket.
 
