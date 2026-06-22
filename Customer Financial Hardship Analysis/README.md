@@ -3,15 +3,26 @@
 ## Objective
 Analyze percentages of charge off accounts that are associated with customers losing their jobs during covid.
 
-## Analysis Performed
-- Total deliquencies in each deliquency bucket
-- Trend analysis
-- MTD changes
+**Business Problem**
 
-## Key Insights
-- Identified top deliquency buckets with the highest percentage
-- Track deliquency bucket percentages daily and MTD
-- Provided actionable recommendations
+American First Finance wanted to understand the impact of customer financial hardship on portfolio losses. Leadership specifically wanted visibility into how often unemployment was associated with charged-off accounts.
+
+**Approach**
+Analyzed customer account notes for indicators of financial hardship.
+Identified references to unemployment and job loss using keyword searches.
+Linked customer note activity to charge-off account balances.
+Quantified the relationship between unemployment indicators and portfolio losses.
+
+## Skills Demonstrated
+
+- SQL
+- Text Analysis
+- Data Mining
+- Root Cause Analysis
+- Financial Analytics
+- Portfolio Risk Analysis
+- KPI Reporting
+- Business Intelligence
 
 ## Sample SQL Logic
 
