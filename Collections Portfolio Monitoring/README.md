@@ -1,17 +1,31 @@
 **Collections Portfolio Monitoring**
 
+
 ## Objective
-Analyze percentages of deliquent account in each deliquent bucket for daily and monthly reporting.
+Analyze percentages of charge off accounts that are associated with customers losing their jobs during covid.
+
+**Business Problem**
+
+American First Finance wanted to understand the percentages of deliquent account in each deliquent bucket for daily and monthly reporting. Leadership specifically wanted visibility into what percentage of customers fell into each deliquency bucket.
 
 ## Analysis Performed
 - Total deliquencies in each deliquency bucket
 - Trend analysis
 - MTD changes
-
+- 
 ## Key Insights
 - Identified top deliquency buckets with the highest percentage
 - Track deliquency bucket percentages daily and MTD
 - Provided actionable recommendations
+  
+## Skills Demonstrated
+
+- SQL
+- Data Mining
+- Financial Analytics
+- Portfolio Risk Analysis
+- KPI Reporting
+- Business Intelligence
 
 ## Sample SQL Logic
 
